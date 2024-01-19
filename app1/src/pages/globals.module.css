@@ -1,0 +1,9 @@
+.body {
+  margin: 0;
+  height: 100vh;
+}
+
+
+.body h1, .body h2, .body h3, .body h4, .body h5, .body h6 {
+  font-family: 'Courier New', Courier, monospace;
+}

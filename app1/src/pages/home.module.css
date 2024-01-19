@@ -1,0 +1,36 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #1B5FF3;
+}
+
+.balance {
+  display: flex;
+  align-items: center;
+}
+
+.balance button {
+  background-color: #1B5FF3;
+  height: 48px;
+  border-radius: 8px;
+  padding: 0px 16px;
+  color: white;
+  border: 0;
+  cursor: pointer;
+  width: 68px;
+}
+
+.balance h2 {
+  margin-left: 10px;
+}
+
+.logout button {
+  color: white;
+  cursor: pointer;
+  background-color: #1B5FF3;
+  height: 48px;
+  border-radius: 8px;
+  padding: 0px 16px;
+  border: 0;
+}
